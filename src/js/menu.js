@@ -1,4 +1,3 @@
-import './styles.css';
 import data from './menu.json';
 import cardsTpl from './templates/cards-template.hbs';
 
